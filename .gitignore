@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# build output (vite dev/preview only — docs/ is committed and served by Pages)
+dist
+
+# editor / OS
+.DS_Store
+*.log
+
+# typescript
+*.tsbuildinfo
+
+# env
+.env
+.env.local
